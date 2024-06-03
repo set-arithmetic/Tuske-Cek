@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: jepir3/stc:v1
+          tags: set-arithmetic/stc:v1
