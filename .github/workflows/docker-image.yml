@@ -27,3 +27,4 @@ jobs:
         with:
           push: true
           tags: set-arithmetic/stc:v1
+          
